@@ -1,2 +1,2 @@
 Hello OSS
-Git free software
+Git is distri free software
